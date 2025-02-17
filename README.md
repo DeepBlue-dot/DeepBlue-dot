@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepblue-dot&label=Profile%20views&color=0e75b6&style=flat" alt="deepblue-dot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepblue-dot" alt="deepblue-dot" /></a> </p>
-
 - 🔭 I’m currently working on **MERN projects**
 
 - 🌱 I’m currently learning **React, Flutter and Next**
@@ -28,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepblue-dot&show_icons=true&locale=en" alt="deepblue-dot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepblue-dot&" alt="deepblue-dot" /></p>
-
