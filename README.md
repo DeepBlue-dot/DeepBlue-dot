@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Porfolio](https://deepblue-dot.github.io/)
 
-- 📫 How to reach me **yeabsira710@gmail.com**
+- 📫 How to reach me [My Email](mailto:yeabsira710@gmail.com)****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
