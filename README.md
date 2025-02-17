@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepblue-dot&label=Profile%20views&color=0e75b6&style=flat" alt="deepblue-dot" /> </p>
 
-- 🔭 I’m currently working on **MERN projects**
+- 🔭 I’m currently working on **MERN projects and Flutter**
 
 - 🌱 I’m currently learning **React, Flutter and Next**
 
