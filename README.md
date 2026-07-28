@@ -119,10 +119,6 @@ Software Engineer passionate about building full-stack web applications and scal
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepblue-dot&theme=react-dark&bg_color=0f172a&color=3b82f6&line=2563eb&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph" width="95%" />
-</div>
-
 ---
 
 
