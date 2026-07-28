@@ -15,6 +15,7 @@
 
 Software Engineer passionate about building full-stack web applications and scalable backend systems with **TypeScript**, **React**, **Next.js**, **Node.js**, **Express.js**, **PostgreSQL**, **Prisma ORM**, **Redis**, **Docker**, and **Microservices architecture**.
 
+---
 
 
 ## 👨‍💻 About Me
@@ -25,6 +26,7 @@ Software Engineer passionate about building full-stack web applications and scal
 - 🔐 **Core Strengths:** Secure REST APIs, WebSockets communication, DB Optimization & Caching Layers
 - 🌱 **Currently:** Exploring Cloud-Native Architectures & Advanced System Design
 
+---
 
 
 ## 🛠️ Areas of Expertise & Tech Stack
@@ -83,6 +85,7 @@ Software Engineer passionate about building full-stack web applications and scal
   </tr>
 </table>
 
+---
 
 ## 🌟 Featured Projects
 
@@ -98,6 +101,8 @@ Software Engineer passionate about building full-stack web applications and scal
 
 > Full-stack single-vendor e-commerce platform using Next.js, React, TypeScript, Prisma, and PostgreSQL with secure authentication, persistent shopping carts, and order management.
 
+---
+
 
 ## 📊 GitHub Analytics
 
@@ -112,6 +117,7 @@ Software Engineer passionate about building full-stack web applications and scal
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepblue-dot&theme=dark&background=0F172A&border=1E293B&stroke=3B82F6&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=94A3B8&sideTitle=94A3B8&dates=94A3B8" alt="Streak Stats" width="95%" />
 </div>
 
+---
 
 
 ## 📬 Connect With Me
