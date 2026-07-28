@@ -125,7 +125,7 @@ Software Engineer passionate about building full-stack web applications and scal
 ## 📬 Connect With Me
 
 <div align="center">
-  <a href="https://deepblue-dot.github.io/">
+  <a href="https://yeabsira-fikadu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=3B82F6" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/yeabsira-fikadu-36908b321">
