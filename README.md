@@ -114,7 +114,7 @@ Software Engineer passionate about building full-stack web applications and scal
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=deepblue-dot&theme=dark&background=0F172A&border=1E293B&stroke=3B82F6&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=94A3B8&sideTitle=94A3B8&dates=94A3B8" alt="Streak Stats" width="95%" />
+  <img src="https://streak-stats.demolab.com?user=DeepBlue-dot&theme=github-dark&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
