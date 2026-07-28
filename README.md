@@ -107,14 +107,14 @@ Software Engineer passionate about building full-stack web applications and scal
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepblue-dot&show_icons=true&theme=transparent&title_color=2563eb&icon_color=3b82f6&text_color=94a3b8&border_color=1e293b&bg_color=0f172a" alt="Yeabsira's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepblue-dot&layout=compact&theme=transparent&title_color=2563eb&text_color=94a3b8&border_color=1e293b&bg_color=0f172a" alt="Top Languages" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepblue-dot&show_icons=true&theme=transparent&title_color=2563eb&icon_color=3b82f6&text_color=94a3b8&border_color=1e293b&bg_color=0f172a" alt="Yeabsira's GitHub Stats" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=deepblue-dot&layout=compact&theme=transparent&title_color=2563eb&text_color=94a3b8&border_color=1e293b&bg_color=0f172a" alt="Top Languages" height="175" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepblue-dot&theme=dark&background=0F172A&border=1E293B&stroke=3B82F6&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=94A3B8&sideTitle=94A3B8&dates=94A3B8" alt="Streak Stats" width="95%" />
+  <img src="https://streak-stats.demolab.com/?user=deepblue-dot&theme=dark&background=0F172A&border=1E293B&stroke=3B82F6&ring=2563EB&fire=2563EB&currStreakNum=FFFFFF&sideNums=94A3B8&sideTitle=94A3B8&dates=94A3B8" alt="Streak Stats" width="95%" />
 </div>
 
 ---
