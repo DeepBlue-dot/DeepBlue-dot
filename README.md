@@ -89,15 +89,15 @@ Software Engineer passionate about building full-stack web applications and scal
 
 ## 🌟 Featured Projects
 
-### 🎮 Distributed Game Server 🔗 [GitHub Repository](https://github.com/deepblue-dot)
+### 🎮 Distributed Game Server 🔗 [GitHub Repository](https://github.com/DeepBlue-dot/Distributed-Game-Server)
 > Event-driven multiplayer game backend using a microservices architecture with dedicated services for WebSocket communication, matchmaking, player management, and game logic.
 
 
-### 🎬 FilmLane 🔗 [GitHub Repository](https://github.com/deepblue-dot) | 🌐 [Live Demo](https://deepblue-dot.github.io/)
+### 🎬 FilmLane 🔗 [GitHub Repository](https://github.com/DeepBlue-dot/FilmLane) | 🌐 [Live Demo](https://filelane-blond.vercel.app)
 > Full-stack movie and TV discovery platform built with React, Express, PostgreSQL, and Prisma with JWT authentication, personalized watchlists, and watch history.
 
 
-### 🛒 StoreEase 🔗 [GitHub Repository](https://github.com/deepblue-dot) | 🌐 [Live Demo](https://deepblue-dot.github.io/)
+### 🛒 StoreEase 🔗 [GitHub Repository](https://github.com/DeepBlue-dot/store-ease) | 🌐 [Live Demo](https://store-ease-alpha.vercel.app/)
 
 > Full-stack single-vendor e-commerce platform using Next.js, React, TypeScript, Prisma, and PostgreSQL with secure authentication, persistent shopping carts, and order management.
 
